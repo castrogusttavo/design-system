@@ -9,5 +9,3 @@
 - [ ] Checkbox
 - [ ] Avatar
 - [ ] MultiStep
-
-# License - MIT
